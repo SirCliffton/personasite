@@ -1,2 +1,2 @@
 # personasite
-my personal
+my personal site
